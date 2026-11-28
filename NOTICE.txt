@@ -1,0 +1,1 @@
+Polish Head Office of Geodesy and Cartography (GUGiK), BDOT10k and PRG. Unmodified inputs downloaded from Geoportal on 2026-11-28. See PR 1519 SOURCES.md for official download URLs and checksums.
